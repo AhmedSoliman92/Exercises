@@ -1,5 +1,3 @@
-package parentLaunchChileProcess;
-
 import java.io.*;
 
 import static java.lang.Thread.sleep;
@@ -11,14 +9,14 @@ public class Child {
         while((c=System.in.read())!='\n'){
             System.out.print((char)c);
         }
-        File file=new File("res/childProcess.txt");
-         BufferedWriter bufferedWriter = new BufferedWriter(new FileWriter(file));
         System.out.println();
+         BufferedWriter bufferedWriter = new BufferedWriter(new FileWriter(new File("../res/childProcess.log")));
+
          int counter = 0;
             while (counter <= 10) {
-                System.out.println(counter++);
-                bufferedWriter.write(counter+'\n');
+                bufferedWriter.write(counter+"\n");
                 bufferedWriter.flush();
+                System.out.println(counter++);
                 sleep(1000);
                 if (System.in.available() > 0) {
                     c = System.in.read();
@@ -27,6 +25,6 @@ public class Child {
                     }
                 }
             }
-            bufferedWriter.close();
+        bufferedWriter.close();
     }
 }
