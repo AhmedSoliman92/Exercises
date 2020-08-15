@@ -31,18 +31,17 @@ public class Parent {
         String line=bufferedReader.readLine();
         bufferedWriter.write(line);
         bufferedWriter.flush();
+        line=bufferedReader.readLine();
         while (line!=null) {
             System.out.println(line);
             bufferedWriter.write(line+'\n');
             bufferedWriter.flush();
             line = bufferedReader.readLine();
-                if (!line.equals("Hello Echo!!")) {
                     if (Integer.parseInt(line) == 5) {
                         writer.write('*');
                         writer.flush();
                         System.out.println("Sent Message");
                     }
-                }
             }
         process.destroy();
     }
