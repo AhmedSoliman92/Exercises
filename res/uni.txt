@@ -1,0 +1,1549 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN" "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ar" version="XHTML+RDFa 1.0" dir="rtl"
+
+  xmlns:fb="http://ogp.me/ns/fb#"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:article="http://ogp.me/ns/article#"
+  xmlns:book="http://ogp.me/ns/book#"
+  xmlns:profile="http://ogp.me/ns/profile#"
+  xmlns:video="http://ogp.me/ns/video#"
+  xmlns:product="http://ogp.me/ns/product#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="generator" content="Drupal 7 (https://www.drupal.org)" />
+<link rel="canonical" href="http://www.tishreen.edu.sy/ar" />
+<link rel="shortlink" href="http://www.tishreen.edu.sy/ar" />
+<meta property="og:site_name" content="الموقع الرسمي جامعة تشرين" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="http://www.tishreen.edu.sy/ar" />
+<meta property="og:title" content="الموقع الرسمي جامعة تشرين" />
+<meta property="og:description" content="www.tishreen.edu.sy" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:url" content="http://www.tishreen.edu.sy/ar" />
+<meta name="twitter:title" content="الموقع الرسمي جامعة تشرين" />
+<meta name="twitter:description" content="www.tishreen.edu.sy" />
+<meta name="dcterms.title" content="الموقع الرسمي جامعة تشرين" />
+<meta name="dcterms.description" content="www.tishreen.edu.sy" />
+<meta name="dcterms.type" content="Text" />
+<meta name="dcterms.identifier" content="http://www.tishreen.edu.sy/ar" />
+<meta name="dcterms.format" content="text/html" />
+  <title>الموقع الرسمي جامعة تشرين | www.tishreen.edu.sy</title>
+  <style type="text/css" media="all">
+@import url("http://www.tishreen.edu.sy/modules/system/system.base.css?qaa9oy");
+@import url("http://www.tishreen.edu.sy/modules/system/system.base-rtl.css?qaa9oy");
+@import url("http://www.tishreen.edu.sy/modules/system/system.menus.css?qaa9oy");
+@import url("http://www.tishreen.edu.sy/modules/system/system.menus-rtl.css?qaa9oy");
+@import url("http://www.tishreen.edu.sy/modules/system/system.messages.css?qaa9oy");
+@import url("http://www.tishreen.edu.sy/modules/system/system.messages-rtl.css?qaa9oy");
+@import url("http://www.tishreen.edu.sy/modules/system/system.theme.css?qaa9oy");
+@import url("http://www.tishreen.edu.sy/modules/system/system.theme-rtl.css?qaa9oy");
+</style>
+<style type="text/css" media="all">
+@import url("http://www.tishreen.edu.sy/modules/date/date_api/date.css?qaa9oy");
+@import url("http://www.tishreen.edu.sy/modules/date/date_api/date-rtl.css?qaa9oy");
+@import url("http://www.tishreen.edu.sy/modules/date/date_popup/themes/datepicker.1.7.css?qaa9oy");
+@import url("http://www.tishreen.edu.sy/modules/date/date_repeat_field/date_repeat_field.css?qaa9oy");
+@import url("http://www.tishreen.edu.sy/modules/field/theme/field.css?qaa9oy");
+@import url("http://www.tishreen.edu.sy/modules/field/theme/field-rtl.css?qaa9oy");
+@import url("http://www.tishreen.edu.sy/modules/node/node.css?qaa9oy");
+@import url("http://www.tishreen.edu.sy/sites/all/modules/om_maximenu/css/om_maximenu.css?qaa9oy");
+@import url("http://www.tishreen.edu.sy/modules/poll/poll.css?qaa9oy");
+@import url("http://www.tishreen.edu.sy/modules/poll/poll-rtl.css?qaa9oy");
+@import url("http://www.tishreen.edu.sy/modules/search/search.css?qaa9oy");
+@import url("http://www.tishreen.edu.sy/modules/search/search-rtl.css?qaa9oy");
+@import url("http://www.tishreen.edu.sy/modules/user/user.css?qaa9oy");
+@import url("http://www.tishreen.edu.sy/modules/user/user-rtl.css?qaa9oy");
+@import url("http://www.tishreen.edu.sy/modules/workflow/workflow_admin_ui/workflow_admin_ui.css?qaa9oy");
+@import url("http://www.tishreen.edu.sy/modules/views/css/views.css?qaa9oy");
+@import url("http://www.tishreen.edu.sy/modules/views/css/views-rtl.css?qaa9oy");
+</style>
+<style type="text/css" media="all">
+100  5242    0  5242    0     0   4935      0 --:--:--  0:00:01 --:--:--  4940een.edu.sy/modules/ctools/css/ctools.css?qaa9oy");
+@import url("http://www.tishreen.edu.sy/modules/panels/css/panels.css?qaa9oy");
+@import url("http://www.tishreen.edu.sy/sites/default/libraries/nivo-slider/nivo-slider.css?qaa9oy");
+@import url("http://www.tishreen.edu.sy/sites/default/libraries/nivo-slider/themes/default/default.css?qaa9oy");
+@import url("http://www.tishreen.edu.sy/modules/views_nivo_slider/views_nivo_slider.css?qaa9oy");
+@import url("http://www.tishreen.edu.sy/modules/ddblock/css/ddblock.css?qaa9oy");
+@import url("http://www.tishreen.edu.sy/sites/all/modules/om_maximenu/skin/simple/simple.css?qaa9oy");
+@import url("http://www.tishreen.edu.sy/modules/quicktabs/css/quicktabs.css?qaa9oy");
+@import url("http://www.tishreen.edu.sy/modules/quicktabs/quicktabs_tabstyles/tabstyles/sky/sky.css?qaa9oy");
+@import url("http://www.tishreen.edu.sy/modules/quicktabs/quicktabs_tabstyles/tabstyles/sky/sky-rtl.css?qaa9oy");
+</style>
+<style type="text/css" media="all">
+@import url("http://www.tishreen.edu.sy/sites/all/themes/tishreen/style.css?qaa9oy");
+</style>
+<style type="text/css" media="all">
+@import url("http://www.tishreen.edu.sy/sites/all/themes/tishreen/custom/modules/ddblock/upright60p/ddblock-cycle-upright60p.css?qaa9oy");
+</style>
+  <script type="text/javascript" src="http://www.tishreen.edu.sy/modules/jquery_update/replace/jquery/1.7/jquery.min.js?v=1.7.2"></script>
+<script type="text/javascript" src="http://www.tishreen.edu.sy/misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript" src="http://www.tishreen.edu.sy/misc/drupal.js?qaa9oy"></script>
+<script type="text/javascript" src="http://www.tishreen.edu.sy/modules/jquery_update/replace/ui/ui/minified/jquery.ui.effect.min.js?v=1.10.2"></script>
+<script type="text/javascript" src="http://www.tishreen.edu.sy/modules/jquery_update/replace/ui/external/jquery.cookie.js?v=67fb34f6a866c40d0570"></script>
+<script type="text/javascript" src="http://www.tishreen.edu.sy/modules/jquery_update/replace/misc/jquery.form.min.js?v=2.69"></script>
+<script type="text/javascript" src="http://www.tishreen.edu.sy/misc/ajax.js?v=7.64"></script>
+<script type="text/javascript" src="http://www.tishreen.edu.sy/modules/jquery_update/js/jquery_update.js?v=0.0.1"></script>
+<script type="text/javascript" src="http://www.tishreen.edu.sy/sites/all/modules/om_maximenu/js/om_maximenu.js?qaa9oy"></script>
+<script type="text/javascript" src="http://www.tishreen.edu.sy/misc/progress.js?qaa9oy"></script>
+<script type="text/javascript" src="http://www.tishreen.edu.sy/sites/default/files/languages/ar_K52jOOEPDs_so7DJYv108gsdM_AmWcw1DrzL34aE89k.js?qaa9oy"></script>
+<script type="text/javascript" src="http://www.tishreen.edu.sy/sites/default/libraries/nivo-slider/jquery.nivo.slider.pack.js?qaa9oy"></script>
+<script type="text/javascript" src="http://www.tishreen.edu.sy/modules/views_nivo_slider/views_nivo_slider.js?qaa9oy"></script>
+<script type="text/javascript" src="http://www.tishreen.edu.sy/modules/views/js/base.js?qaa9oy"></script>
+<script type="text/javascript" src="http://www.tishreen.edu.sy/modules/views/js/ajax_view.js?qaa9oy"></script>
+<script type="text/javascript" src="http://www.tishreen.edu.sy/sites/default/libraries/jquery.cycle/jquery.cycle.all.js?qaa9oy"></script>
+<script type="text/javascript" src="http://www.tishreen.edu.sy/modules/ddblock/js/json2.pack.js?qaa9oy"></script>
+<script type="text/javascript" src="http://www.tishreen.edu.sy/modules/ddblock/js/ddblock.js?qaa9oy"></script>
+<script type="text/javascript" src="http://www.tishreen.edu.sy/modules/ddblock/js/tools.scrollable-1.0.5.min.js?qaa9oy"></script>
+<script type="text/javascript" src="http://www.tishreen.edu.sy/sites/all/modules/google_analytics/googleanalytics.js?qaa9oy"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","https://www.google-analytics.com/analytics.js","ga");ga("create", "UA-113626222-1", {"cookieDomain":"auto"});ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://www.tishreen.edu.sy/sites/all/modules/om_maximenu/contrib/jquery.hoverIntent.minified.js?qaa9oy"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+
+    jQuery(document).ready(function($){
+      $('#om-maximenu-- li.om-leaf .om-maximenu-content').removeClass('om-maximenu-content-nofade');
+      //$('#om-maximenu-- li.om-leaf').hover(omFadeIn,omFadeOut); //native jquery
+      $('#om-maximenu-- li.om-leaf').hoverIntent({
+        over: omFadeIn,
+        timeout: 500,
+        out: omFadeOut
+      });
+      function omFadeIn(){ $('.om-maximenu-content.closed', this).fadeIn(); }
+      function omFadeOut(){ $('.om-maximenu-content.closed', this).fadeOut(); }
+    });
+
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://www.tishreen.edu.sy/modules/quicktabs/js/quicktabs.js?qaa9oy"></script>
+<script type="text/javascript" src="http://www.tishreen.edu.sy/sites/all/themes/tishreen/script.js?qaa9oy"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"ar\/","ajaxPageState":{"theme":"tishreen","theme_token":"9t4qpugc6Nl2pLmycpF9psJ8Gv1MCm_tZVdI8Npb6Ec","jquery_version":"1.7","js":{"modules\/jquery_update\/replace\/jquery\/1.7\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"modules\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.effect.min.js":1,"modules\/jquery_update\/replace\/ui\/external\/jquery.cookie.js":1,"modules\/jquery_update\/replace\/misc\/jquery.form.min.js":1,"misc\/ajax.js":1,"modules\/jquery_update\/js\/jquery_update.js":1,"sites\/all\/modules\/om_maximenu\/js\/om_maximenu.js":1,"misc\/progress.js":1,"public:\/\/languages\/ar_K52jOOEPDs_so7DJYv108gsdM_AmWcw1DrzL34aE89k.js":1,"sites\/default\/libraries\/nivo-slider\/jquery.nivo.slider.pack.js":1,"modules\/views_nivo_slider\/views_nivo_slider.js":1,"modules\/views\/js\/base.js":1,"modules\/views\/js\/ajax_view.js":1,"sites\/default\/libraries\/jquery.cycle\/jquery.cycle.all.js":1,"modules\/ddblock\/js\/json2.pack.js":1,"modules\/ddblock\/js\/ddblock.js":1,"modules\/ddblock\/js\/tools.scrollable-1.0.5.min.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"0":1,"sites\/all\/modules\/om_maximenu\/contrib\/jquery.hoverIntent.minified.js":1,"1":1,"modules\/quicktabs\/js\/quicktabs.js":1,"sites\/all\/themes\/tishreen\/script.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.base-rtl.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.menus-rtl.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.messages-rtl.css":1,"modules\/system\/system.theme.css":1,"modules\/system\/system.theme-rtl.css":1,"modules\/date\/date_api\/date.css":1,"modules\/date\/date_api\/date-rtl.css":1,"modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/date\/date_repeat_field\/date_repeat_field.css":1,"modules\/field\/theme\/field.css":1,"modules\/field\/theme\/field-rtl.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/om_maximenu\/css\/om_maximenu.css":1,"modules\/poll\/poll.css":1,"modules\/poll\/poll-rtl.css":1,"modules\/search\/search.css":1,"modules\/search\/search-rtl.css":1,"modules\/user\/user.css":1,"modules\/user\/user-rtl.css":1,"modules\/workflow\/workflow_admin_ui\/workflow_admin_ui.css":1,"modules\/views\/css\/views.css":1,"modules\/views\/css\/views-rtl.css":1,"modules\/ctools\/css\/ctools.css":1,"modules\/panels\/css\/panels.css":1,"sites\/default\/libraries\/nivo-slider\/nivo-slider.css":1,"sites\/default\/libraries\/nivo-slider\/themes\/default\/default.css":1,"modules\/views_nivo_slider\/views_nivo_slider.css":1,"modules\/ddblock\/css\/ddblock.css":1,"sites\/all\/modules\/om_maximenu\/skin\/simple\/simple.css":1,"modules\/quicktabs\/css\/quicktabs.css":1,"modules\/quicktabs\/quicktabs_tabstyles\/tabstyles\/sky\/sky.css":1,"modules\/quicktabs\/quicktabs_tabstyles\/tabstyles\/sky\/sky-rtl.css":1,"sites\/all\/themes\/tishreen\/style.css":1,"sites\/all\/themes\/tishreen\/custom\/modules\/ddblock\/upright60p\/ddblock-cycle-upright60p.css":1}},"views_nivo_slider":{"views-nivo-slider-slideshow-test-block-1":{"startSlide":0,"effect":"fade","slices":1,"animSpeed":500,"pauseTime":50000,"directionNav":true,"directionNavHide":true,"controlNav":false,"controlNavThumbs":false,"pauseOnHover":true,"manualAdvance":true,"captionOpacity":0.8,"beforeChange":"function(){}","afterChange":"function(){}","slideshowEnd":"function(){}","lastSlide":"function(){}","afterLoad":"function(){}","version":"2.7.x","controlNavThumbsFromRel":false,"keyboardNav":true}},"views":{"ajax_path":"\/ar\/views\/ajax","ajaxViews":{"views_dom_id:68f3f393b009fe5411c1178a99bc1558":{"view_name":"slideshow_test","view_display_id":"block_1","view_args":"2389","view_path":"node\/2389","view_base_path":null,"view_dom_id":"68f3f393b009fe5411c1178a99bc1558","pager_element":0}}},"urlIsAjaxTrusted":{"\/ar\/views\/ajax":true,"\/":true},"better_exposed_filters":{"views":{"slideshow_test":{"displays":{"block_1":{"filters":[]}}},"events":{"displays":{"block":{"filters":[]}}},"news_items":{"displays":{"block":{"filters":[]}}},"clone_of_advertisement":{"displays":{"block":{"filters":[]}}}}},"ddblockContent":{"4":{"block":"4","nrOfItems":6,"setDimensions":"upright60p","contentContainer":"div.slide","custom":"","fx":"toss","easeOut":"linear","easeIn":"linear","speed":"500","timeOut":"5000","pause":"1","next":"0","overflow":"hidden","pager":"scrollable-pager","pagerPosition":"bottom","pagerPrevNextLoop":"1","pagerScrollableLoop":"1","nrOfPagerItems":"4","pagerContainer":".scrollable-pager-item","pagerEvent":"click","pagerDisableClick":"1","pagerFast":"1","pagerPause":"1","pager2":"0","pager2Event":"mouseover","pager2SlideHide":"0","slideText":"1","slideTextjQuery":"1","slideTextPosition":"bottom","slideTextContainer":"div.slide-text","slideTextEffectBefore":"slideUp","slideTextEffectBeforeSpeed":"250","slideTextEffectBeforeEasing":"linear","slideTextEffectAfter":"slideDown","slideTextEffectAfterSpeed":"1000","slideTextEffectAfterEasing":"easeInQuint","height":"195","width":"195"}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"quicktabs":{"qt_test_header_tabs":{"name":"test_header_tabs","tabs":[{"bid":"block_delta_27","hide_title":1},{"bid":"block_delta_26","hide_title":1},{"bid":"block_delta_25","hide_title":1},{"bid":"block_delta_24","hide_title":1},{"bid":"block_delta_23","hide_title":1},{"bid":"block_delta_29","hide_title":1},{"bid":"block_delta_28","hide_title":1}],"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"}}}});
+//--><!]]>
+</script>
+  <!--[if IE 6]><link rel="stylesheet" href="/sites/all/themes/tishreen/style.ie6.css" type="text/css" media="screen" /><![endif]-->
+  <!--[if IE 7]><link rel="stylesheet" href="/sites/all/themes/tishreen/style.ie7.css" type="text/css" media="screen" /><![endif]-->
+</head>
+<body class="html front not-logged-in no-sidebars page-node page-node- page-node-2389 node-type-page" >
+
+<div id="art-main">
+    <div class="cleared reset-box"></div>
+<div class="art-header">
+<div class="art-header-position">
+    <div class="art-header-wrapper">
+        <div class="cleared reset-box"></div>
+        <div class="art-header-inner">
+<div class="art-headerobject"></div>
+<div class="art-headerobject2"></div>
+<div class="art-textblock art-object1024609661" data-left="6.3%">
+        <div class="art-object1024609661-text"><div class="HorizontalMenu">
+&nbsp; <b>معلومات عامة </b> &nbsp; : &nbsp; &nbsp;<a href="/about">عن الجامعة</a>&nbsp; | &nbsp; <a href="/university_president">إدارة الجامعة</a> &nbsp; | &nbsp; <a href="/speech">كلمة رئيس الجامعة</a>
+</div></div>
+</div>
+<div class="art-textblock art-object391434795" data-left="10%">
+        <div class="art-object391434795-text"><div class="art-blockcontent-body"><a href="http://www.tishreen.edu.sy">العربية</a> | <a href="http://en.tishreen.edu.sy">English</a></div></div>
+
+</div>
+<div class="art-logo">
+     <h1 class="art-logo-name"><a href="/ar" title = "الموقع الرسمي جامعة تشرين">الموقع الرسمي جامعة تشرين</a></h1>     <h2 class="art-logo-text">www.tishreen.edu.sy</h2></div>
+
+        </div>
+    </div>
+</div>
+
+<div class="art-bar art-nav">
+<div class="art-nav-outer">
+<div class="art-nav-wrapper">
+<div class="art-nav-inner">
+        <div class="art-hmenu-extra1">  <div class="region region-extra1">
+    <div class="block block-search" id="block-search-form">
+        <div class="art-article content">
+                <form action="/" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">استمارة البحث</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">‏بحث ‏</label>
+ <input title="أدخل الكلمات التي تود القيام بالبحث عنها." type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="بحث" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-bj4zOyr50JYsxUZAq7ul7h_V4Sgpu437TwABnbATdno" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>   </div>
+</div>
+  </div>
+</div>
+
+
+  <div id="om-maximenu--" class="om-maximenu om-maximenu-simple om-maximenu-main-menu code-om-u1-882395653">
+
+
+<div id="om-menu---ul-wrapper" class="om-menu-ul-wrapper">
+  <ul id="om-menu--" class="om-menu">
+
+
+
+  <li id="om-leaf-om-u1-882395653-6" class="om-leaf first leaf-- om-leaf-title-icon">
+    <a  class="om-link  link--" href="/ar/center"><img  src="http://www.tishreen.edu.sy/sites/default/files/centers.png" alt="المراكز" /> المراكز</a>
+  <div class="om-maximenu-content om-maximenu-content-nofade closed">
+    <div class="om-maximenu-top">
+      <div class="om-maximenu-top-left"></div>
+      <div class="om-maximenu-top-right"></div>
+    </div><!-- /.om-maximenu-top -->
+    <div class="om-maximenu-middle">
+      <div class="om-maximenu-middle-left">
+        <div class="om-maximenu-middle-right">
+
+
+<div class="block block-block block-block-id-32 first last">
+      <div class="content"></div>
+  </div><!-- /.block -->
+
+
+
+
+
+          <div class="om-clearfix"></div>
+        </div><!-- /.om-maximenu-middle-right -->
+      </div><!-- /.om-maximenu-middle-left -->
+    </div><!-- /.om-maximenu-middle -->
+    <div class="om-maximenu-bottom">
+      <div class="om-maximenu-bottom-left"></div>
+      <div class="om-maximenu-bottom-right"></div>
+    </div><!-- /.om-maximenu-bottom -->
+    <div class="om-maximenu-arrow"></div>
+    <div class="om-maximenu-open">
+      <input type="checkbox" value="" />
+      Stay    </div><!-- /.om-maximenu-open -->
+  </div><!-- /.om-maximenu-content -->
+
+
+
+  </li>
+
+
+
+
+
+
+
+
+
+  <li id="om-leaf-om-u1-882395653-5" class="om-leaf leaf-- om-leaf-title-icon">
+    <a  class="om-link  link--" href="/ar/services"><img  src="http://www.tishreen.edu.sy/sites/default/files/services.png" alt="الخدمات" /> الخدمات</a>
+  <div class="om-maximenu-content om-maximenu-content-nofade closed">
+    <div class="om-maximenu-top">
+      <div class="om-maximenu-top-left"></div>
+      <div class="om-maximenu-top-right"></div>
+    </div><!-- /.om-maximenu-top -->
+    <div class="om-maximenu-middle">
+      <div class="om-maximenu-middle-left">
+        <div class="om-maximenu-middle-right">
+
+
+<div class="block block-block block-block-id-31 first last">
+      <div class="content"></div>
+  </div><!-- /.block -->
+
+
+
+
+
+          <div class="om-clearfix"></div>
+        </div><!-- /.om-maximenu-middle-right -->
+      </div><!-- /.om-maximenu-middle-left -->
+    </div><!-- /.om-maximenu-middle -->
+    <div class="om-maximenu-bottom">
+      <div class="om-maximenu-bottom-left"></div>
+      <div class="om-maximenu-bottom-right"></div>
+    </div><!-- /.om-maximenu-bottom -->
+    <div class="om-maximenu-arrow"></div>
+    <div class="om-maximenu-open">
+      <input type="checkbox" value="" />
+      Stay    </div><!-- /.om-maximenu-open -->
+  </div><!-- /.om-maximenu-content -->
+
+
+
+  </li>
+
+
+
+
+
+
+
+
+
+  <li id="om-leaf-om-u1-882395653-4" class="om-leaf leaf-- om-leaf-title-icon">
+    <a  class="om-link  link--" href="/ar/eventscalendar"><img  src="http://www.tishreen.edu.sy/sites/default/files/event.png" alt="الفعاليات" /> الفعاليات</a>
+
+
+
+  </li>
+
+
+
+
+
+
+
+
+
+  <li id="om-leaf-om-u1-882395653-3" class="om-leaf leaf-- om-leaf-title-icon">
+    <a  class="om-link  link--" href="/ar/content/%D8%A7%D9%84%D8%A8%D8%AD%D8%AB-%D8%A7%D9%84%D8%B9%D9%84%D9%85%D9%8A"><img  src="http://www.tishreen.edu.sy/sites/default/files/research.png" alt="البحث العلمي" /> البحث العلمي</a>
+  <div class="om-maximenu-content om-maximenu-content-nofade closed">
+    <div class="om-maximenu-top">
+      <div class="om-maximenu-top-left"></div>
+      <div class="om-maximenu-top-right"></div>
+    </div><!-- /.om-maximenu-top -->
+    <div class="om-maximenu-middle">
+      <div class="om-maximenu-middle-left">
+        <div class="om-maximenu-middle-right">
+
+
+<div class="block block-block block-block-id-30 first last">
+      <div class="content"><div class="art-box art-blockcontent">
+<div class="art-box-body art-blockcontent-body">
+<div class="content">
+<table>
+<tr valign="top">
+<td>
+<ul>
+<li><a href="http://www.tishreen.edu.sy/ar/node/3403">مديرية البحث العلمي</a></li>
+<li><a href="http://www.tishreen.edu.sy/ar/find-research-papers" >الأبحاث العلمية</a></li>
+<li><a href="http://journal.tishreen.edu.sy/" >أبحاث مجلة الجامعة</a></li>
+<li><a href="http://mofadeen.u71.cybercodehost.com/" >المعيدين والموفدين</a></li>
+</ul>
+</td>
+<td>
+<ul>
+<li><a href="http://www.tishreen.edu.sy/ar/node/7617" >مجلة الجامعة</a></li>
+<li><a href="http://www.tishreen.edu.sy/ar/e-libraries" >المكتبات الالكترونية</a></li>
+<li><a href="http://www.tishreen.edu.sy/sites/default/files/Advertisement/fullguide2.pdf" >الدليل الشامل للدراسات العليا</a></li>
+</ul>
+</td>
+</tr>
+</table>
+</div></div></div></div>
+  </div><!-- /.block -->
+
+
+
+
+
+          <div class="om-clearfix"></div>
+        </div><!-- /.om-maximenu-middle-right -->
+      </div><!-- /.om-maximenu-middle-left -->
+    </div><!-- /.om-maximenu-middle -->
+    <div class="om-maximenu-bottom">
+      <div class="om-maximenu-bottom-left"></div>
+      <div class="om-maximenu-bottom-right"></div>
+    </div><!-- /.om-maximenu-bottom -->
+    <div class="om-maximenu-arrow"></div>
+    <div class="om-maximenu-open">
+      <input type="checkbox" value="" />
+      Stay    </div><!-- /.om-maximenu-open -->
+  </div><!-- /.om-maximenu-content -->
+
+
+
+  </li>
+
+
+
+
+
+
+
+
+
+  <li id="om-leaf-om-u1-882395653-2" class="om-leaf leaf-- om-leaf-title-icon">
+    <a  class="om-link  link--" href="/ar/academics"><img  src="http://www.tishreen.edu.sy/sites/default/files/academics.png" alt="الشؤون الأكاديمية" /> الشؤون الأكاديمية</a>
+  <div class="om-maximenu-content om-maximenu-content-nofade closed">
+    <div class="om-maximenu-top">
+      <div class="om-maximenu-top-left"></div>
+      <div class="om-maximenu-top-right"></div>
+    </div><!-- /.om-maximenu-top -->
+    <div class="om-maximenu-middle">
+      <div class="om-maximenu-middle-left">
+        <div class="om-maximenu-middle-right">
+
+
+<div class="block block-quicktabs block-quicktabs-id-test_header_tabs first last">
+      <div class="content"><div  id="quicktabs-test_header_tabs" class="quicktabs-wrapper quicktabs-style-sky"><div class="item-list"><ul class="quicktabs-tabs quicktabs-style-sky"><li class="active first"><a href="/ar/index?qt-test_header_tabs=0#qt-test_header_tabs" id="quicktabs-tab-test_header_tabs-0" class="quicktabs-tab quicktabs-tab-block quicktabs-tab-block-block-delta-27 active">العلوم الهندسية</a></li>
+<li><a href="/ar/index?qt-test_header_tabs=1#qt-test_header_tabs" id="quicktabs-tab-test_header_tabs-1" class="quicktabs-tab quicktabs-tab-block quicktabs-tab-block-block-delta-26 active">العلوم الطبية</a></li>
+<li><a href="/ar/index?qt-test_header_tabs=2#qt-test_header_tabs" id="quicktabs-tab-test_header_tabs-2" class="quicktabs-tab quicktabs-tab-block quicktabs-tab-block-block-delta-25 active">العلوم الإنسانية</a></li>
+<li><a href="/ar/index?qt-test_header_tabs=3#qt-test_header_tabs" id="quicktabs-tab-test_header_tabs-3" class="quicktabs-tab quicktabs-tab-block quicktabs-tab-block-block-delta-24 active">العلوم الاقتصادية</a></li>
+<li><a href="/ar/index?qt-test_header_tabs=4#qt-test_header_tabs" id="quicktabs-tab-test_header_tabs-4" class="quicktabs-tab quicktabs-tab-block quicktabs-tab-block-block-delta-23 active">العلوم الأساسية</a></li>
+<li><a href="/ar/index?qt-test_header_tabs=5#qt-test_header_tabs" id="quicktabs-tab-test_header_tabs-5" class="quicktabs-tab quicktabs-tab-block quicktabs-tab-block-block-delta-29 active">المعاهد العليا</a></li>
+<li class="last"><a href="/ar/index?qt-test_header_tabs=6#qt-test_header_tabs" id="quicktabs-tab-test_header_tabs-6" class="quicktabs-tab quicktabs-tab-block quicktabs-tab-block-block-delta-28 active">المعاهد التقانية</a></li>
+</ul></div><div id="quicktabs-container-test_header_tabs" class="quicktabs_main quicktabs-style-sky"><div  id="quicktabs-tabpage-test_header_tabs-0" class="quicktabs-tabpage "><div class="block block-block" id="block-block-27">
+<div class="art-box art-block">
+      <div class="art-box-body art-block-body">
+
+
+
+        <div class="art-box art-blockcontent">
+                    <div class="art-box-body art-blockcontent-body">
+                <div class="content">
+
+
+<table>
+<tr valign="top">
+<td>
+<ul>
+<li><a href='/faculty/eng/agriculture' >كلية الهندسة الزراعية</a></li>
+<li><a href='/faculty/eng/civil' >كلية الهندسة المدنية</a></li>
+<li><a href='/faculty/tech/mae-eng' >كلية الهندسة الكهربائية والميكانيكية</a></li>
+<li><a href='/faculty/eng/architecture' >كلية الهندسة المعمارية</a></li>
+</ul>
+</td>
+<td>
+<ul>
+<li><a href='/faculty/informatics-engineering' >كلية الهندسة المعلوماتية</a></li>
+<li><a href='/faculty/Applied' >الكلية التطبيقية</a></li>
+</ul>
+</td>
+</tr>
+</table>
+
+                </div>
+                                <div class="cleared"></div>
+                    </div>
+                </div>
+
+
+                                <div class="cleared"></div>
+                    </div>
+                </div>
+
+        </div></div><div  id="quicktabs-tabpage-test_header_tabs-1" class="quicktabs-tabpage quicktabs-hide"><div class="block block-block" id="block-block-26">
+<div class="art-box art-block">
+      <div class="art-box-body art-block-body">
+
+
+
+        <div class="art-box art-blockcontent">
+                    <div class="art-box-body art-blockcontent-body">
+                <div class="content">
+
+
+<table>
+<tr valign="top">
+<td>
+<ul>
+<li><a href='/faculty/medical/medicine' >كلية الطب البشري</a></li>
+<li><a href='/faculty/medical/dentistry'>كلية طب الأسنان</a></li>
+<li><a href='/faculty/medical/pharmacy'>كلية الصيدلة</a></li>
+</ul>
+</td>
+<td>
+<ul>
+<li><a href='/faculty/medical/nursing'>كلية التمريض</a></li>
+<li><a href='/faculty/medical/phys-edu'>كلية التربية الرياضية</a></li>
+</ul>
+</td>
+</tr>
+</table>
+
+                </div>
+                                <div class="cleared"></div>
+                    </div>
+                </div>
+
+
+                                <div class="cleared"></div>
+                    </div>
+                </div>
+
+        </div></div><div  id="quicktabs-tabpage-test_header_tabs-2" class="quicktabs-tabpage quicktabs-hide"><div class="block block-block" id="block-block-25">
+<div class="art-box art-block">
+      <div class="art-box-body art-block-body">
+
+
+
+        <div class="art-box art-blockcontent">
+                    <div class="art-box-body art-blockcontent-body">
+                <div class="content">
+
+
+<table>
+<tr valign="top">
+<td>
+<ul>
+<li><a href='/faculty/humanities/literature'>كلية الآداب العلوم الإنسانية</a></li>
+<li><a href='/faculty/humanities/education'>كلية التربية</a></li>
+<li><a href='/faculty/humanities/law'>كلية الحقوق</a></li>
+<li><a href='/faculty/arts'>كلية الفنون الجميلة</a></li>
+</ul>
+</td>
+<td>
+
+</td>
+</tr>
+</table>
+
+                </div>
+                                <div class="cleared"></div>
+                    </div>
+                </div>
+
+
+                                <div class="cleared"></div>
+                    </div>
+                </div>
+
+        </div></div><div  id="quicktabs-tabpage-test_header_tabs-3" class="quicktabs-tabpage quicktabs-hide"><div class="block block-block" id="block-block-24">
+<div class="art-box art-block">
+      <div class="art-box-body art-block-body">
+
+
+
+        <div class="art-box art-blockcontent">
+                    <div class="art-box-body art-blockcontent-body">
+                <div class="content">
+
+
+<table>
+<tr valign="top">
+<td>
+<ul>
+<li><a href='/faculty/eco/economics'>كلية الاقتصاد</a></li>
+</ul>
+</td>
+<td>
+</td>
+</tr>
+</table>
+
+                </div>
+                                <div class="cleared"></div>
+                    </div>
+                </div>
+
+
+                                <div class="cleared"></div>
+                    </div>
+                </div>
+
+        </div></div><div  id="quicktabs-tabpage-test_header_tabs-4" class="quicktabs-tabpage quicktabs-hide"><div class="block block-block" id="block-block-23">
+<div class="art-box art-block">
+      <div class="art-box-body art-block-body">
+
+
+
+        <div class="art-box art-blockcontent">
+                    <div class="art-box-body art-blockcontent-body">
+                <div class="content">
+
+
+<table>
+<tr valign="top">
+<td>
+<ul>
+<li><a href='/faculty/sci/science'>كلية العلوم</a></li>
+
+</ul>
+</td>
+<td>
+</td>
+</tr>
+</table>
+
+                </div>
+                                <div class="cleared"></div>
+                    </div>
+                </div>
+
+
+                                <div class="cleared"></div>
+                    </div>
+                </div>
+
+        </div></div><div  id="quicktabs-tabpage-test_header_tabs-5" class="quicktabs-tabpage quicktabs-hide"><div class="block block-block" id="block-block-29">
+<div class="art-box art-block">
+      <div class="art-box-body art-block-body">
+
+
+
+        <div class="art-box art-blockcontent">
+                    <div class="art-box-body art-blockcontent-body">
+                <div class="content">
+
+
+<table>
+<tr valign="top">
+<td>
+<ul>
+<li><a href='/high-institute/eng/sea-research'>المعهد العالي للبحوث البحرية</a></li>
+<li><a href='/high-institute/eng/env-research'>المعهد العالي للبحوث البيئية</a></li>
+<li><a href='/high-institute/humanities/linguistics'>المعهد العالي للغات</a></li></ul>
+</td>
+<td>
+</td>
+</tr>
+</table>
+
+                </div>
+                                <div class="cleared"></div>
+                    </div>
+                </div>
+
+
+                                <div class="cleared"></div>
+                    </div>
+                </div>
+
+        </div></div><div  id="quicktabs-tabpage-test_header_tabs-6" class="quicktabs-tabpage quicktabs-hide"><div class="block block-block" id="block-block-28">
+<div class="art-box art-block">
+      <div class="art-box-body art-block-body">
+
+
+
+        <div class="art-box art-blockcontent">
+                    <div class="art-box-body art-blockcontent-body">
+                <div class="content">
+
+
+<table>
+<tr valign="top">
+<td>
+<ul>
+<li><a href='/institute/eng/tia'>المعهد التقاني الزراعي</a></li>
+<li><a href='/institute/medical/tmi'>المعهد التقاني الطبي</a></li>
+<li><a href='/institute/eng/tea'>المعهد التقاني الهندسي</a></li>
+<li><a href='/institute/eco/tiaf'>المعهد التقاني للعلوم المالية والمصرفية</a></li>
+<li><a href='/institute/tech/tci'>المعهد التقاني للحاسوب</a></li>
+</ul>
+</td>
+<td>
+<ul>
+<li><a href='/institute/eco/itbat'>المعهد التقاني لإدارة الأعمال والتسويق</a></li>
+<li><a href='/node/3204'>المعهد التقاني البيطري</a></li>
+</ul>
+</td>
+</tr>
+</table>
+
+                </div>
+                                <div class="cleared"></div>
+                    </div>
+                </div>
+
+
+                                <div class="cleared"></div>
+                    </div>
+                </div>
+
+        </div></div></div></div></div>
+  </div><!-- /.block -->
+
+
+
+
+
+          <div class="om-clearfix"></div>
+        </div><!-- /.om-maximenu-middle-right -->
+      </div><!-- /.om-maximenu-middle-left -->
+    </div><!-- /.om-maximenu-middle -->
+    <div class="om-maximenu-bottom">
+      <div class="om-maximenu-bottom-left"></div>
+      <div class="om-maximenu-bottom-right"></div>
+    </div><!-- /.om-maximenu-bottom -->
+    <div class="om-maximenu-arrow"></div>
+    <div class="om-maximenu-open">
+      <input type="checkbox" value="" />
+      Stay    </div><!-- /.om-maximenu-open -->
+  </div><!-- /.om-maximenu-content -->
+
+
+
+  </li>
+
+
+
+
+
+
+
+
+
+  <li id="om-leaf-om-u1-882395653-1" class="om-leaf last leaf-- active om-leaf-title-icon">
+    <a  class="om-link  link-- active" href="/ar"><img  src="http://www.tishreen.edu.sy/sites/default/files/home.png" alt="الرئيسية" /> الرئيسية</a>
+
+
+
+  </li>
+
+
+
+
+
+
+      </ul><!-- /.om-menu -->
+</div><!-- /.om-menu-ul-wrapper -->
+
+
+
+      </div><!-- /#om-maximenu-[menu name] -->
+
+
+</div>
+</div>
+</div>
+</div>
+<div class="cleared reset-box"></div>
+
+</div>
+<div class="cleared reset-box"></div>
+<div class="art-box art-sheet">
+    <div class="art-box-body art-sheet-body">
+<div id="banner1">  <div class="region region-banner1">
+    <div class="block block-block" id="block-block-47">
+
+  <div class="content">
+    <script type="text/javascript">
+/*custom.min*/
+jQuery(document).ready(function($){
+//vertical menu - show links
+$('.fdw-background').click(
+function () {
+$('.mainlinko').animate({top:"-190px"}, 800);
+});
+//vertical menu - hide links
+$('.fdw-background2').click(
+function () {
+$('.mainlinko').animate({top:"10px"}, 800);
+});
+});
+</script>
+<div id="VertivalMenuDiv" style="overflow:hidden">
+<div class="mainlinko" style="position:absolute; width:100%"  >
+<ul><li style="padding-top:6px"> <a href="/all-news">أخبـــــار الجامعـــة</a> </li>
+<ul><li style="padding-top:6px"> <a href="/all_sem">رسائل وأبحاث</a> </li>
+<li style="padding-top:6px"> <a href="/user">تسجيل الدخول</a> </li>
+<li style="padding-top:6px"> <a href="http://mail.tishreen.edu.sy" target="_blank">البريد الالكتروني</a> </li>
+<li style="padding-top:6px ; display:none"> <a href="http://95.159.58.56/sm/" target="_blank">النتائج الامتحانية </a> </li>
+<li style="padding-top:6px"> <a href="/Results">النتائج الامتحانية</a> </li>
+<li style="padding-top:6px"> <a href="http://ols.tishreen.edu.sy" target="_blank">التعليم المفتوح </a> </li>
+<li style="padding-top:6px"> <a href="http://mdl.ief.tishreen.edu.sy" target="_blank">نظام ادارة التعلم</a> </li>
+<li style="padding-top:6px"> <a href="/contact-us">اتصل بنا</a> </li>
+
+</ul>
+<hr/>
+ <a  class="fdw-background" style="padding-top:6px;" >ارتباطات هامة ▲ </a>
+<hr/>
+<br/>
+<ul>
+<li style="padding-top:6px"> <a href="http://www.mohe.gov.sy/" target="_blank">وزارة التعليم العالي</a> </li>
+<li style="padding-top:6px"> <a href="http://www.syrianeducation.org.sy/" target="_blank">وزارة التربية </a> </li>
+<li style="padding-top:6px"> <a href="http://www.damascusuniversity.edu.sy/" target="_blank">جامعة دمشق </a> </li>
+<li style="padding-top:6px"> <a href="http://www.aleppo-university.com/" target="_blank">جامعة حلب </a> </li>
+<li style="padding-top:6px"> <a href="http://www.albaath-univ.edu.sy/" target="_blank">جامعة البعث </a> </li>
+<li style="padding-top:6px"> <a href="http://www.alfuratuniv.org/" target="_blank">جامعة الفرات </a> </li>
+<li style="padding-top:6px"> <a href="http://au.edu.sy/" target="_blank">جامعة الأندلس</a> </li>
+<li style="padding-top:6px"> <a href="http://hpu.sy/index1.php?view=1" target="_blank">جامعة الحواش</a> </li>
+<li style="padding-top:6px"> <a href="http://ncd.sy/" target="_blank">مركز المتميزين </a> </li>
+<li style="padding-top:6px"> <a href="http://www.mof.sy" target="_blank">موقع المفاضلة </a> </li>
+<li style="padding-top:6px"> <a href="http://albasselfair.gov.sy/" target="_blank">معرض الباسل</a> </li>
+
+</ul>
+<hr/>
+<a  class="fdw-background2" style="padding-top:6px" >عودة ▼ </a>
+<hr/>
+</div>
+</div>
+  </div>
+</div>
+<div class="block block-views" id="block-views-slideshow-test-block-1">
+
+  <div class="content">
+    <div class="view view-slideshow-test view-id-slideshow_test view-display-id-block_1 view-dom-id-68f3f393b009fe5411c1178a99bc1558">
+
+
+
+      <div class="view-content">
+      <div class="views-nivo-slider-view slider-wrapper theme-default">
+
+
+    <div id="views-nivo-slider-slideshow-test-block-1" class="views-nivo-slider clearfix">
+              <img src="http://www.tishreen.edu.sy/sites/default/files/14.jpg" alt="" title="" />              <img src="http://www.tishreen.edu.sy/sites/default/files/3_2.jpg" alt="" title="" />              <img src="http://www.tishreen.edu.sy/sites/default/files/2_3.jpg" alt="" title="" />              <img src="http://www.tishreen.edu.sy/sites/default/files/6.jpg" alt="" title="" />              <img src="http://www.tishreen.edu.sy/sites/default/files/DSC_4360.jpg" alt="" title="" />              <img src="http://www.tishreen.edu.sy/sites/default/files/4_2.jpg" alt="" title="" />              <img src="http://www.tishreen.edu.sy/sites/default/files/DSC_0228.jpg" alt="" title="" />              <img src="http://www.tishreen.edu.sy/sites/default/files/5_1.jpg" alt="" title="" />              <img src="http://www.tishreen.edu.sy/sites/default/files/15.jpg" alt="" title="" />              <img src="http://www.tishreen.edu.sy/sites/default/files/7_0.jpg" alt="" title="" />              <img src="http://www.tishreen.edu.sy/sites/default/files/12.jpg" alt="" title="" />              <img src="http://www.tishreen.edu.sy/sites/default/files/8_0.jpg" alt="" title="" />              <img src="http://www.tishreen.edu.sy/sites/default/files/9_0.jpg" alt="" title="" />              <img src="http://www.tishreen.edu.sy/sites/default/files/11_0.jpg" alt="" title="" />              <img src="http://www.tishreen.edu.sy/sites/default/files/DSC_0264.jpg" alt="" title="" />              <img src="http://www.tishreen.edu.sy/sites/default/files/13.jpg" alt="" title="" />          </div>
+
+
+</div>     </div>
+
+
+
+
+
+
+</div>  </div>
+</div>
+<div class="block block-scrolltext" id="block-scrolltext-delta-0">
+
+  <div class="content">
+    <div id='scrolltext'><marquee direction='Right' behavior='Scroll' width='100%' onmouseover='this.stop()' onmouseout='this.start()'scrollamount='6' scrolldelay='6' ><span><a href="/ar/content/%D8%AA%D8%B9%D9%84%D9%86-%D9%88%D8%B2%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%8A-%D9%88-%D8%A7%D9%84%D8%A8%D8%AD%D8%AB-%D8%A7%D9%84%D8%B9%D9%84%D9%85%D9%8A-%D8%B9%D9%86-%D8%AD%D8%A7%D8%AC%D8%AA%D9%87%D8%A7-%D9%84%D8%AA%D8%B9%D9%8A%D9%8A%D9%86-%D9%85%D8%A4%D9%87%D9%84%D9%8A%D9%86-%D9%85%D9%86-%D8%AD%D9%85%D9%84%D8%A9-%D8%B4%D9%87%D8%A7%D8%AF%D8%A9-%D8%A7%D9%84%D8%AF%D9%83%D8%AA%D9%88%D8%B1%D8%A7%D9%87-%D8%A3%D9%88">تعلن وزارة التعليم العالي و البحث العلمي عن حاجتها  لتعيين مؤهلين من حملة  شهادة الدكتوراه  أو المؤهل العملمي المطلوب للتعيين في عضوية الهيئة التدريسية في الجامعات السورية</a></span>&nbsp&nbsp&nbsp&nbsp&nbsp<span><a href="/ar/content/%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%AA%D8%B4%D8%B1%D9%8A%D9%86-%D8%AA%D9%86%D8%B4%D8%B1-%D9%82%D8%B1%D8%A7%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D9%86%D8%A7%D8%AC%D8%AD%D9%8A%D9%86-%D9%88-%D8%A7%D9%84%D9%85%D9%82%D8%A8%D9%88%D9%84%D9%8A%D9%86-%D9%81%D9%8A-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%A8%D9%82%D8%A9-%D9%81%D8%A6%D8%A9-%D8%A3%D9%88%D9%84%D9%89-%D9%88-%D8%AB%D8%A7%D9%86%D9%8A%D8%A9">جامعة تشرين تنشر قرارات الناجحين و المقبولين في المسابقة فئة أولى و ثانية</a></span>&nbsp&nbsp&nbsp&nbsp&nbsp</marquee></div>  </div>
+</div>
+  </div>
+</div>      <table class="position" cellpadding="0" cellspacing="0" border="0">
+        <tr valign="top">
+          <td class="quarter-width">  <div class="region region-top1">
+    <div class="block block-views" id="block-views-events-block">
+<div class="art-box art-block">
+      <div class="art-box-body art-block-body">
+
+
+
+                        <div class="art-bar art-blockheader">
+                                    <h3 class="t subject">
+
+                        فعاليات الجامعة
+                        </h3>
+                                </div>
+
+
+
+        <div class="art-box art-blockcontent">
+                    <div class="art-box-body art-blockcontent-body">
+                <div class="content">
+
+
+<div class="view view-events view-id-events view-display-id-block view-dom-id-e8c56d3e0d62789628031c33e9e49a1d">
+
+
+
+      <div class="view-content">
+      <div class="item-list">    <ul>          <li class="views-row views-row-1 views-row-odd views-row-first">
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/ar/content/%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9-%D9%85%D8%AF%D9%8A%D8%B1%D9%8A%D8%A9-%D8%A7%D9%84%D8%AA%D8%B1%D8%A8%D9%8A%D8%A9-%D9%85%D8%B9-%D8%A5%D8%AF%D8%A7%D8%B1%D8%A9-%D9%83%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D8%AA%D8%B1%D8%A8%D9%8A%D8%A9-%D9%81%D9%8A-%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%AA%D8%B4%D8%B1%D9%8A%D9%86-%D8%B6%D9%85%D9%86-%D8%A5%D8%B7%D8%A7%D8%B1-%D8%A7%D9%84%D9%85%D9%86%D8%A7%D9%82%D8%B4%D8%A7%D8%AA-%D8%A7%D9%84%D8%AA%D9%8A-%D8%AC%D8%B1%D8%AA-%D9%81%D9%8A">اجتماع مديرية التربية مع إدارة كلية التربية في جامعة تشرين (ضمن إطار المناقشات التي جرت في جلسات مؤتمر التطوير التربوي المنعقد في دمشق خلال الفترة بين 26-28 / 9 / 2019)</a></span>  </div>
+  <div class="views-field views-field-field-event-date">        <div class="field-content"><span class="date-display-single">9 تشرين الأول 2019</span></div>  </div></li>
+          <li class="views-row views-row-2 views-row-even">
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/ar/content/%D9%8A%D9%82%D9%8A%D9%85-%D9%82%D8%B3%D9%85-%D8%A7%D9%84%D9%83%D9%8A%D9%85%D9%8A%D8%A7%D8%A1-%D8%A7%D9%84%D8%A8%D8%AD%D8%B1%D9%8A%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D9%85%D8%B9%D9%87%D8%AF-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%8A-%D9%84%D9%84%D8%A8%D8%AD%D9%88%D8%AB-%D8%A7%D9%84%D8%A8%D8%AD%D8%B1%D9%8A%D8%A9-%D9%88%D8%B1%D8%B4%D8%A9-%D8%B9%D9%85%D9%84-%D8%AF%D8%A7%D8%AE%D9%84%D9%8A%D8%A9-%D8%A8%D8%B9%D9%86%D9%88%D8%A7%D9%86-%D9%82%D9%88%D8%A7%D8%B9%D8%AF">يقيم قسم الكيمياء البحرية في المعهد العالي للبحوث البحرية ورشة عمل داخلية بعنوان :&quot;قواعد وتعليمات السلامة المخبرية&quot; </a></span>  </div>
+  <div class="views-field views-field-field-event-date">        <div class="field-content"><span class="date-display-single">29 نيسان 2019</span></div>  </div></li>
+          <li class="views-row views-row-3 views-row-odd">
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/ar/content/%D8%A7%D8%B9%D9%84%D8%A7%D9%86-%D9%85%D8%AD%D8%A7%D8%B6%D8%B1%D8%A9-%D8%B9%D9%84%D9%85%D9%8A%D8%A9-%D8%A8%D8%B9%D9%86%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D9%85%D8%AD%D9%85%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D8%A8%D8%AD%D8%B1%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%B3%D8%A7%D8%AD%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D9%85%D8%B3%D9%88%D8%BA%D8%A7%D8%AA%D9%87%D8%A7-%D8%A7%D9%84%D8%A8%D9%8A%D8%A6%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%AA%D8%B4%D8%BA%D9%8A%D9%84%D9%8A%D8%A9">اعلان محاضرة علمية بعنوان:  المحميات البحرية والساحلية السورية :مسوغاتها البيئية والتشغيلية والقانونية ,والتوجهات المطلوبة  يلقيها الدكتور أمير ابراهيم </a></span>  </div>
+  <div class="views-field views-field-field-event-date">        <div class="field-content"><span class="date-display-single">1 نيسان 2019</span></div>  </div></li>
+          <li class="views-row views-row-4 views-row-even views-row-last">
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/ar/content/%D8%A7%D8%B9%D9%84%D8%A7%D9%86-%D9%85%D8%AD%D8%A7%D8%B6%D8%B1%D8%A9-%D8%B9%D9%84%D9%85%D9%8A%D8%A9-%D8%A8%D8%B9%D9%86%D9%88%D8%A7%D9%86-%D8%AA%D9%86%D8%B8%D9%8A%D9%85-%D9%88%D8%A7%D8%AF%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D9%85%D8%B1%D8%A7%D8%AC%D8%B9-%D8%A7%D9%84%D8%B9%D9%84%D9%85%D9%8A%D8%A9-%D8%A8%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D8%AC-endnote-x7">اعلان محاضرة علمية بعنوان تنظيم وادارة المراجع العلمية باستخدام برنامج EndNote X7 </a></span>  </div>
+  <div class="views-field views-field-field-event-date">        <div class="field-content"><span class="date-display-single">25 شباط 2019</span></div>  </div></li>
+      </ul></div>    </div>
+
+
+
+
+<div class="more-link">
+  <a href="http://tishreen.edu.sy/ar/eventscalendar">
+    عرض كافة الفعاليات  </a>
+</div>
+
+
+
+</div>
+
+                </div>
+                                <div class="cleared"></div>
+                    </div>
+                </div>
+
+
+                                <div class="cleared"></div>
+                    </div>
+                </div>
+
+        </div><div class="block block-block" id="block-block-53">
+<div class="art-box art-block">
+      <div class="art-box-body art-block-body">
+
+
+
+                        <div class="art-bar art-blockheader">
+                                    <h3 class="t subject">
+
+                        صفحتنا على الفيسبوك
+                        </h3>
+                                </div>
+
+
+
+        <div class="art-box art-blockcontent">
+                    <div class="art-box-body art-blockcontent-body">
+                <div class="content">
+
+
+<style>
+<!--/*--><![CDATA[/* ><!--*/
+
+
+.app {
+  background: #43609C;
+  width:50px;
+  height: 50px;
+  position: absolute;
+  display: block;
+  left: 50%;
+  top: 50%;
+  margin: -21px 0 0 -19px;
+  border-radius: 9%;
+}
+
+.app:after {
+  content: "f";
+  color: #fff;
+  font-size: 50px;
+  font-weight: bold;
+  display: block;
+  margin: 44% 10% 0 0;
+}
+
+.app:hover {
+  box-shadow:  0px 0px 7px rgba(59,89,152, 0.90);
+  -webkit-box-shadow: 0px 0px 7px rgba(59,89,152, 0.75);
+  -moz-box-shadow:    0px 0px 7px rgba(59,89,152, 0.75);
+}
+
+/*--><!]]>*/
+</style><div style="margin-top:40px">
+   <a href="https://www.facebook.com/%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%AA%D8%B4%D8%B1%D9%8A%D9%86-Tishreen-University-162226860984145/" style="text-decoration:none;" target="_blank">
+<div class="app"></div>
+<p></p></a>
+</div>
+
+
+                </div>
+                                <div class="cleared"></div>
+                    </div>
+                </div>
+
+
+                                <div class="cleared"></div>
+                    </div>
+                </div>
+
+        </div><div class="block block-imageblock" id="block-imageblock-8">
+<div class="art-box art-block">
+      <div class="art-box-body art-block-body">
+
+
+
+                        <div class="art-bar art-blockheader">
+                                    <h3 class="t subject">
+
+                        مؤتمر كلية الهندسة المدنية
+                        </h3>
+                                </div>
+
+
+
+        <div class="art-box art-blockcontent">
+                    <div class="art-box-body art-blockcontent-body">
+                <div class="content">
+
+
+  <div class="block-image">
+    <a href="http://tishreen.edu.sy/civil-conf2019/" class="imageblock-link" target="_self"><img class="imageblock-image" src="http://www.tishreen.edu.sy/sites/default/files/imageblock/icon_0.png" alt="" /></a>  </div>
+
+
+
+                </div>
+                                <div class="cleared"></div>
+                    </div>
+                </div>
+
+
+                                <div class="cleared"></div>
+                    </div>
+                </div>
+
+        </div><div class="block block-imageblock" id="block-imageblock-12">
+<div class="art-box art-block">
+      <div class="art-box-body art-block-body">
+
+
+
+                        <div class="art-bar art-blockheader">
+                                    <h3 class="t subject">
+
+                        الخطة الاستراتيجية لجامعة تشرين
+                        </h3>
+                                </div>
+
+
+
+        <div class="art-box art-blockcontent">
+                    <div class="art-box-body art-blockcontent-body">
+                <div class="content">
+
+
+  <div class="block-image">
+    <a href="http://www.tishreen.edu.sy/ar/content/plan" class="imageblock-link" target="_self"><img class="imageblock-image" src="http://www.tishreen.edu.sy/sites/default/files/imageblock/icon_1.png" alt="" /></a>  </div>
+
+
+
+                </div>
+                                <div class="cleared"></div>
+                    </div>
+                </div>
+
+
+                                <div class="cleared"></div>
+                    </div>
+                </div>
+
+        </div>  </div>
+</td>
+          <td class="half-width">  <div class="region region-top2">
+    <div class="block block-ddblock" id="block-ddblock-4">
+<div class="art-box art-block">
+      <div class="art-box-body art-block-body">
+
+
+
+                        <div class="art-bar art-blockheader">
+                                    <h3 class="t subject">
+
+                        آخر الأخبار
+                        </h3>
+                                </div>
+
+
+
+        <div class="art-box art-blockcontent">
+                    <div class="art-box-body art-blockcontent-body">
+                <div class="content">
+
+
+<!-- dynamic display block slideshow -->
+<div id="ddblock-4" class="ddblock-cycle-upright60p clearfix">
+ <div class="container clearfix">
+  <div class="container-inner clearfix">
+
+   <!-- slider content -->
+   <div class="slider clearfix">
+    <div class="slider-inner clearfix">
+                  <div class="slide clearfix">
+        <div class="slide-inner clearfix">
+                   <img src="http://www.tishreen.edu.sy/sites/default/files/news/aaaddd1.jpg" width="335" height="251" alt="" />, <img src="http://www.tishreen.edu.sy/sites/default/files/news/aaaddd2.jpg" width="365" height="274" alt="" />
+         <div class="slide-text slide-text-horizontal slide-text-bottom clearfix">
+          <div class="slide-text-inner clearfix">
+                                    <div class="slide-title slide-title-horizontal clearfix">
+              <div class="slide-title-inner clearfix">
+               <h2><a href="/ar/news/29868">    متابعة سير الامتحانات الجامعية في كليتي العلوم والزراعة بجامعة تشرين</a></h2>
+              </div> <!-- slide-title-inner-->
+             </div>  <!-- slide-title-->
+
+                                             </div> <!-- slide-text-inner-->
+         </div>  <!-- slide-text-->
+        </div> <!-- slide-inner-->
+       </div>  <!-- slide-->
+             <div class="slide clearfix">
+        <div class="slide-inner clearfix">
+                   <img src="http://www.tishreen.edu.sy/sites/default/files/news/DSC_2122.jpg" width="367" height="275" alt="" />, <img src="http://www.tishreen.edu.sy/sites/default/files/news/DSC_2141.jpg" width="360" height="270" alt="" />
+         <div class="slide-text slide-text-horizontal slide-text-bottom clearfix">
+          <div class="slide-text-inner clearfix">
+                                    <div class="slide-title slide-title-horizontal clearfix">
+              <div class="slide-title-inner clearfix">
+               <h2><a href="/ar/news/29846">رئيس الجامعة وأمين فرع الحزب يتفقدان سير امتحانات الفصل الدراسي الثاني</a></h2>
+              </div> <!-- slide-title-inner-->
+             </div>  <!-- slide-title-->
+
+                                             </div> <!-- slide-text-inner-->
+         </div>  <!-- slide-text-->
+        </div> <!-- slide-inner-->
+       </div>  <!-- slide-->
+             <div class="slide clearfix">
+        <div class="slide-inner clearfix">
+                   <img src="http://www.tishreen.edu.sy/sites/default/files/news/IMG_%D9%A2%D9%A0%D9%A2%D9%A0%D9%A0%D9%A8%D9%A0%D9%A7_%D9%A1%D9%A3%D9%A2%D9%A4%D9%A3%D9%A2.jpg" width="782" height="700" alt="" />
+         <div class="slide-text slide-text-horizontal slide-text-bottom clearfix">
+          <div class="slide-text-inner clearfix">
+                                    <div class="slide-title slide-title-horizontal clearfix">
+              <div class="slide-title-inner clearfix">
+               <h2><a href="/ar/news/29845">اجتماع مجلس شؤون الطلاب بحضور رئيس الجامعة استعدادا لامتحانات الفصل الثاني</a></h2>
+              </div> <!-- slide-title-inner-->
+             </div>  <!-- slide-title-->
+
+                                             </div> <!-- slide-text-inner-->
+         </div>  <!-- slide-text-->
+        </div> <!-- slide-inner-->
+       </div>  <!-- slide-->
+             <div class="slide clearfix">
+        <div class="slide-inner clearfix">
+                   <img src="http://www.tishreen.edu.sy/sites/default/files/default_images/news.jpg" alt="" />
+         <div class="slide-text slide-text-horizontal slide-text-bottom clearfix">
+          <div class="slide-text-inner clearfix">
+                                    <div class="slide-title slide-title-horizontal clearfix">
+              <div class="slide-title-inner clearfix">
+               <h2><a href="/ar/news/29782"> إطلاق استمارة التقدم للمشاركة في مشروع قفزة لدعم مشاريع التخرج يوم الأربعاء 5-8-2020</a></h2>
+              </div> <!-- slide-title-inner-->
+             </div>  <!-- slide-title-->
+
+                                             </div> <!-- slide-text-inner-->
+         </div>  <!-- slide-text-->
+        </div> <!-- slide-inner-->
+       </div>  <!-- slide-->
+             <div class="slide clearfix">
+        <div class="slide-inner clearfix">
+                   <img src="http://www.tishreen.edu.sy/sites/default/files/news/reeeee1.jpg" width="375" height="281" alt="" />, <img src="http://www.tishreen.edu.sy/sites/default/files/news/reeeee2.jpg" width="360" height="270" alt="" />
+         <div class="slide-text slide-text-horizontal slide-text-bottom clearfix">
+          <div class="slide-text-inner clearfix">
+                                    <div class="slide-title slide-title-horizontal clearfix">
+              <div class="slide-title-inner clearfix">
+               <h2><a href="/ar/news/29780">د , حسن يطلع على واقع العملية التعليمية والبحثية  ويطمئن على تطبيق الإجراءات الاحترازية في المجلس الدوري  لكلية التربية </a></h2>
+              </div> <!-- slide-title-inner-->
+             </div>  <!-- slide-title-->
+
+                                             </div> <!-- slide-text-inner-->
+         </div>  <!-- slide-text-->
+        </div> <!-- slide-inner-->
+       </div>  <!-- slide-->
+             <div class="slide clearfix">
+        <div class="slide-inner clearfix">
+                   <img src="http://www.tishreen.edu.sy/sites/default/files/default_images/news.jpg" alt="" />
+         <div class="slide-text slide-text-horizontal slide-text-bottom clearfix">
+          <div class="slide-text-inner clearfix">
+                                    <div class="slide-title slide-title-horizontal clearfix">
+              <div class="slide-title-inner clearfix">
+               <h2><a href="/ar/news/29754"> موقع ويب ماتريكس ينشر نتائج مقياس الشفافية.. جامعة تشرين في المرتبة الثانية على مستوى سَورية</a></h2>
+              </div> <!-- slide-title-inner-->
+             </div>  <!-- slide-title-->
+
+                                             </div> <!-- slide-text-inner-->
+         </div>  <!-- slide-text-->
+        </div> <!-- slide-inner-->
+       </div>  <!-- slide-->
+               </div> <!-- slider-inner-->
+   </div>  <!-- slider-->
+
+ <div class="spacer-horizontal"><b></b></div>
+
+<!-- navigator -->
+<div class="navi"></div>
+
+<!-- custom "prev" link -->
+<div class="prev prev-1"></div>
+
+<!-- scrollable pager -->
+<div id="ddblock-scrollable-pager-4" class="scrollable-pager clearfix">
+ <div class="items scrollable-pager-inner clearfix">
+                    <div class="scrollable-pager-item scrollable-pager-item-0">
+       <a href="#" title="navigate to topics" class="pager-link"><img src="http://www.tishreen.edu.sy/sites/default/files/news/aaaddd1.jpg" width="335" height="251" alt="" />, <img src="http://www.tishreen.edu.sy/sites/default/files/news/aaaddd2.jpg" width="365" height="274" alt="" /></a>
+      </div> <!-- /custom-pager-item -->
+
+                    <div class="scrollable-pager-item scrollable-pager-item-1">
+       <a href="#" title="navigate to topics" class="pager-link"><img src="http://www.tishreen.edu.sy/sites/default/files/news/DSC_2122.jpg" width="367" height="275" alt="" />, <img src="http://www.tishreen.edu.sy/sites/default/files/news/DSC_2141.jpg" width="360" height="270" alt="" /></a>
+      </div> <!-- /custom-pager-item -->
+
+                    <div class="scrollable-pager-item scrollable-pager-item-2">
+       <a href="#" title="navigate to topics" class="pager-link"><img src="http://www.tishreen.edu.sy/sites/default/files/news/IMG_%D9%A2%D9%A0%D9%A2%D9%A0%D9%A0%D9%A8%D9%A0%D9%A7_%D9%A1%D9%A3%D9%A2%D9%A4%D9%A3%D9%A2.jpg" width="782" height="700" alt="" /></a>
+      </div> <!-- /custom-pager-item -->
+
+                    <div class="scrollable-pager-item scrollable-pager-item-3">
+       <a href="#" title="navigate to topics" class="pager-link"><img src="http://www.tishreen.edu.sy/sites/default/files/default_images/news.jpg" alt="" /></a>
+      </div> <!-- /custom-pager-item -->
+
+                    <div class="scrollable-pager-item scrollable-pager-item-4">
+       <a href="#" title="navigate to topics" class="pager-link"><img src="http://www.tishreen.edu.sy/sites/default/files/news/reeeee1.jpg" width="375" height="281" alt="" />, <img src="http://www.tishreen.edu.sy/sites/default/files/news/reeeee2.jpg" width="360" height="270" alt="" /></a>
+      </div> <!-- /custom-pager-item -->
+
+                    <div class="scrollable-pager-item scrollable-pager-item-5">
+       <a href="#" title="navigate to topics" class="pager-link"><img src="http://www.tishreen.edu.sy/sites/default/files/default_images/news.jpg" alt="" /></a>
+      </div> <!-- /custom-pager-item -->
+
+            </div> <!-- /pager-inner-->
+</div>  <!-- /scrollable pager-->
+
+<!-- custom "next" link -->
+<div class="next next-1"></div>
+
+   <!-- prev/next pager on slide -->
+
+  </div> <!-- container-inner-->
+ </div> <!--container-->
+</div> <!--  template -->
+
+
+                </div>
+                                <div class="cleared"></div>
+                    </div>
+                </div>
+
+
+                                <div class="cleared"></div>
+                    </div>
+                </div>
+
+        </div>  </div>
+</td>
+          <td class="quarter1-width">  <div class="region region-top3">
+    <div class="block block-views" id="block-views-clone-of-advertisement-block">
+<div class="art-box art-block">
+      <div class="art-box-body art-block-body">
+
+
+
+                        <div class="art-bar art-blockheader">
+                                    <h3 class="t subject">
+
+                        إعلانات الجامعة
+                        </h3>
+                                </div>
+
+
+
+        <div class="art-box art-blockcontent">
+                    <div class="art-box-body art-blockcontent-body">
+                <div class="content">
+
+
+<div class="view view-clone-of-advertisement view-id-clone_of_advertisement view-display-id-block view-dom-id-515f47453ca6a1e4bd9ac421c5c59bf9">
+
+
+
+      <div class="view-content">
+      <div class="item-list">    <ul>          <li class="views-row views-row-1 views-row-odd views-row-first">
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/ar/content/%D9%83%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF-%D9%85%D8%B4%D8%B1%D9%88%D8%B9-%D8%A8%D8%AD%D8%AB-%D9%84%D9%84%D8%AA%D8%B3%D8%AC%D9%8A%D9%84-%D8%A8%D8%AF%D8%B1%D8%AC%D8%A9-%D8%A7%D9%84%D8%AF%D9%83%D8%AA%D9%88%D8%B1%D8%A7%D9%87-%D9%84%D9%84%D8%B7%D8%A7%D9%84%D8%A8%D8%A9-%D9%8A%D8%A7%D8%B3%D9%85%D9%8A%D9%86-%D8%B9%D8%A8%D8%AF-%D8%A7%D9%84%D9%84%D9%87-%D8%B1%D8%AC%D8%A8">كلية الاقتصاد : مشروع بحث للتسجيل بدرجة الدكتوراه للطالبة ياسمين عبد الله رجب</a></span>  </div></li>
+          <li class="views-row views-row-2 views-row-even">
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/ar/content/%D8%A7%D9%84%D9%85%D8%B9%D9%87%D8%AF-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%8A-%D9%84%D9%84%D8%BA%D8%A7%D8%AA-%D9%8A%D8%B9%D9%84%D9%86-%D8%B9%D9%86-%D8%A8%D8%AF%D8%A1-%D8%A7%D9%84%D8%AA%D8%B3%D8%AC%D9%8A%D9%84-%D9%84%D8%A7%D8%AE%D8%AA%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D9%84%D8%BA%D8%A9-%D8%A7%D9%84%D8%A3%D8%AC%D9%86%D8%A8%D9%8A%D8%A9-%D9%84%D9%84%D9%82%D9%8A%D8%AF-%D8%A8%D8%AF%D8%B1%D8%AC%D8%A9-%D8%A7%D9%84%D8%AF%D9%83%D8%AA%D9%88%D8%B1%D8%A7%D9%87-%D8%A7%D9%84%D8%B0%D9%8A">المعهد العالي للغات: يعلن عن بدء التسجيل لاختبار اللغة الأجنبية للقيد بدرجة الدكتوراه الذي سيجري بتاريخ 1-9-2020</a></span>  </div></li>
+          <li class="views-row views-row-3 views-row-odd">
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/ar/content/%D9%83%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D9%81%D9%86%D9%88%D9%86-%D8%A7%D9%84%D8%AC%D9%85%D9%8A%D9%84%D8%A9-%D8%A5%D8%B9%D9%84%D8%A7%D9%86-%D8%AF%D9%88%D8%B1%D8%A7%D8%AA-%D8%AA%D8%AF%D8%B1%D9%8A%D8%A8%D9%8A%D8%A9-%D9%84%D8%AD%D9%85%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%87%D8%A7%D8%AF%D8%A9-%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%88%D9%8A%D8%A9-%D8%A8%D9%81%D8%B1%D9%88%D8%B9%D9%87%D8%A7-%D8%A7%D9%84%D9%85%D8%AE%D8%AA%D9%84%D9%81%D8%A9-%D9%84%D9%84%D8%B9%D8%A7%D9%85">كلية الفنون الجميلة-إعلان دورات تدريبية لحملة الشهادة الثانوية بفروعها المختلفة للعام الدراسي 2019-2020 الراغبين بالإشتراك في مسابقة القبول في كلية الفنون الجميلة للعام الدراسي 2020-2021</a></span>  </div></li>
+          <li class="views-row views-row-4 views-row-even">
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/ar/content/%D9%83%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D9%87%D9%86%D8%AF%D8%B3%D8%A9-%D8%A7%D9%84%D9%85%D8%B9%D9%85%D8%A7%D8%B1%D9%8A%D8%A9-%D8%A5%D8%B9%D9%84%D8%A7%D9%86-%D8%AF%D9%88%D8%B1%D8%A7%D8%AA-%D8%AA%D8%AF%D8%B1%D9%8A%D8%A8%D9%8A%D8%A9-%D9%84%D8%AD%D9%85%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%87%D8%A7%D8%AF%D8%A9-%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%88%D9%8A%D8%A9-%D8%A7%D9%84%D9%81%D8%B1%D8%B9-%D8%A7%D9%84%D8%B9%D9%84%D9%85%D9%8A-%D9%84%D9%84%D8%B9%D8%A7%D9%85-%D8%A7%D9%84%D8%AF%D8%B1%D8%A7%D8%B3%D9%8A">كلية الهندسة المعمارية-إعلان دورات تدريبية لحملة الشهادة الثانوية الفرع العلمي للعام الدراسي 2019-2020 الراغبين بالإشتراك في مسابقة القبول في كلية الهندسة المعمارية للعام الدراسي 2020-2021</a></span>  </div></li>
+          <li class="views-row views-row-5 views-row-odd views-row-last">
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/ar/content/%D9%85%D9%86%D8%A7%D9%82%D8%B4%D8%A9-%D8%B9%D9%84%D9%86%D9%8A%D8%A9-%D9%84%D8%B1%D8%B3%D8%A7%D9%84%D8%A9-%D8%A7%D9%84%D8%AF%D9%83%D8%AA%D9%88%D8%B1%D8%A7%D8%A9-%D9%81%D9%8A-%D9%83%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D8%AA%D9%85%D8%B1%D9%8A%D8%B6-%D9%84%D9%84%D8%B7%D8%A7%D9%84%D8%A8%D8%A9-%D9%85%D9%86%D8%A7%D9%84-%D8%B1%D8%AC%D8%A8-%D8%A7%D9%84%D8%B4%D9%88%D8%A7%D8%AE-%D8%A8%D8%B9%D9%86%D9%88%D8%A7%D9%86-%D8%AA%D8%B5%D9%85%D9%8A%D9%85%D8%AA%D8%B7%D8%A8%D9%8A%D9%82">مناقشة علنية لرسالة الدكتوراة في كلية التمريض للطالبة منال رجب الشواخ بعنوان (تصميم,تطبيق وتقويم دليل معلوماتي عن مشورة تنظيم الاسرة )</a></span>  </div></li>
+      </ul></div>    </div>
+
+
+
+
+<div class="more-link">
+  <a href="/ar/all-announcements">
+    عرض كافة الإعلانات  </a>
+</div>
+
+
+
+</div>
+
+                </div>
+                                <div class="cleared"></div>
+                    </div>
+                </div>
+
+
+                                <div class="cleared"></div>
+                    </div>
+                </div>
+
+        </div><div class="block block-imageblock" id="block-imageblock-13">
+<div class="art-box art-block">
+      <div class="art-box-body art-block-body">
+
+
+
+        <div class="art-box art-blockcontent">
+                    <div class="art-box-body art-blockcontent-body">
+                <div class="content">
+
+
+  <div class="block-image">
+    <a href="http://www.tishreen.edu.sy/ar/content/googlescholar" class="imageblock-link" target="_self"><img class="imageblock-image" src="http://www.tishreen.edu.sy/sites/default/files/imageblock/googlescholar_0.png" alt="" /></a>  </div>
+
+
+
+                </div>
+                                <div class="cleared"></div>
+                    </div>
+                </div>
+
+
+                                <div class="cleared"></div>
+                    </div>
+                </div>
+
+        </div><div class="block block-imageblock" id="block-imageblock-14">
+<div class="art-box art-block">
+      <div class="art-box-body art-block-body">
+
+
+
+        <div class="art-box art-blockcontent">
+                    <div class="art-box-body art-blockcontent-body">
+                <div class="content">
+
+
+  <div class="block-image">
+    <a href="http://nuss.sy/" class="imageblock-link" target="_self"><img class="imageblock-image" src="http://www.tishreen.edu.sy/sites/default/files/imageblock/nuss.png" alt="" /></a>  </div>
+
+
+
+                </div>
+                                <div class="cleared"></div>
+                    </div>
+                </div>
+
+
+                                <div class="cleared"></div>
+                    </div>
+                </div>
+
+        </div><div class="block block-imageblock" id="block-imageblock-15">
+<div class="art-box art-block">
+      <div class="art-box-body art-block-body">
+
+
+
+        <div class="art-box art-blockcontent">
+                    <div class="art-box-body art-blockcontent-body">
+                <div class="content">
+
+
+  <div class="block-image">
+    <a href="https://careers.tishreen.edu.sy/" class="imageblock-link" target="_self"><img class="imageblock-image" src="http://www.tishreen.edu.sy/sites/default/files/imageblock/careers.png" alt="" /></a>  </div>
+
+
+
+                </div>
+                                <div class="cleared"></div>
+                    </div>
+                </div>
+
+
+                                <div class="cleared"></div>
+                    </div>
+                </div>
+
+        </div>  </div>
+</td>
+        </tr>
+      </table><div class="art-layout-wrapper">
+    <div class="art-content-layout">
+        <div class="art-content-layout-row">
+<div class="art-layout-cell art-content">
+
+<div class="art-box art-post">
+    <div class="art-box-body art-post-body">
+<div class="art-post-inner art-article">
+<div class="art-postcontent">
+<ul class="arttabs_primary"></ul><div class="cleared"></div>
+</div>
+<div class="cleared"></div>
+
+</div>
+
+                <div class="cleared"></div>
+    </div>
+</div>
+                                  <div class="region region-content">
+      <div class="region region-content">
+    <div class="block block-system" id="block-system-main">
+
+
+
+
+<div id="node-2389" class="node node-page">
+<div class="art-box art-post">
+    <div class="art-box-body art-post-body">
+<div class="art-post-inner art-article">
+<h2 class="art-postheader"></h2>
+<div class="art-postcontent">
+
+</div>
+<div class="cleared"></div>
+
+</div>
+
+                <div class="cleared"></div>
+    </div>
+</div>
+
+</div>
+        </div>  </div>
+  </div>
+</div>
+
+        </div>
+    </div>
+</div>
+<div class="cleared"></div>
+
+<div id="banner6">  <div class="region region-banner6">
+    <div class="block block-block" id="block-block-52">
+      <h2> </h2>
+
+  <div class="content">
+    <p><meta http-equiv="Content-Type" content="text/html; charset=windows-1256" /></p>
+<style>
+<!--/*--><![CDATA[/* ><!--*/
+
+.divcusom{
+border:1px solid #ccc;  float:center;  box-shadow:0 0px 0px 0px  #999999; background-color:#FFFEDB;  height:250px; float:right; margin-left:5px; direction:rtl
+}
+.divcusom2{
+border:1px solid #FFE099;  float:center;   background-color:#fff;  height:215px; float:right; margin:2px; border-radius:20px; margin-top:8px;
+}
+.subdivcustom{
+        width:200px; padding:5px; float:right;box-shadow:0 8px 5px 5px  #999999;  height:80px; border:1px solid #FFF; margin:5px; background-color:#fff; border-radius:10px;
+}
+
+.titledivcustom{
+ font-size:28; padding-left:10px; direction:rtl; background:#FFF1BF
+}
+.adiv{
+        margin:7px;
+
+
+}
+.adiv:hover{
+        border:1px solid #999;
+        box-shadow:0 2px 2px 2px  #999999;
+
+}
+.astyle{
+        color:#000000;
+        text-decoration:none;
+
+
+}
+
+
+/*--><!]]>*/
+</style><div style=" width:895px; border:0px solid #999; padding-bottom:20px;  background-color:#FFFEDB;  ">
+<div class="divcusom" style=" width:170px; background:#FFFFFF ">
+<div> <a href="http://www.tishreen.edu.sy/ar/content/desiredevelopment-higher-education-teaching-modules-socio-economic-impacts-renewable-energy#overlay-context=" style=" color:#000; text-decoration:none;">    <img src="sites/default/files/imageblock/desire.png" style=" width:160px; height:66px;" /> <span style="font-size:13px;  margin-right:5px;">مشروع تطوير برامج التعليم العالي</span></a>
+        </div>
+<div><span style="  font-size:18px; margin-top:50px; padding-right:2px;  "><a href="http://tishreen.edu.sy/ar/content/moodle#overlay-context=ar" target="_blank"><img src=" sites/default/files/imageblock/moodle.jpg" style=" width:160px; height:66px;" /></a></span>
+        </div>
+<div><span style="  font-size:18px; margin-top:50px; padding-right:2px;  "><a href="sites/default/files/pro_1.pdf"><img src=" sites/default/files/styles/news_style/public/news/pic1_8.JPG" style=" width:160px; height:66px;" /></a></span>
+        </div>
+</div>
+<div class="divcusom" style="width:530px;" align="right">
+<div class="titledivcustom"><span style="  font-size:18px; margin-top:50px; padding-right:10px; background-color:#FFF1BF">الطلاب</span>
+        </div>
+<div class="subdivcustom" style="margin-right:50px;">
+<div style="float:right"><img src="sites/default/files/imageblock/imgs/collegesfa.jpg" style=" width:70px; height:70px;" />
+            </div>
+<p>         <a href="academics" style=" color:#000; text-decoration:none;"><br />
+<div style="float:right; padding-top:5px; "><span style="  font-size:18px; margin-top:30px; padding-right:10px;">الكليات</span>
+            </div>
+<p></p></a></p>
+<div style="clear:both"></div>
+            </div>
+<div class="subdivcustom">
+<div style="float:right"><img src="sites/default/files/imageblock/imgs/college-512.png" style=" width:70; height:70;" />
+            </div>
+<p>          <a href="academics" style=" color:#000; text-decoration:none;"><br />
+<div style="float:right; padding-top:5px; "><span style="  font-size:18px; margin-top:30px; padding-right:10px;">المعاهد</span>
+            </div>
+<p></p></a></p>
+<div style="clear:both"></div> </div>
+<div class="subdivcustom" style="margin-right:50px;">
+<div style="float:right"><img src="sites/default/files/imageblock/imgs/academic-certificates.jpg" style=" width:70; height:70;" />
+            </div>
+<div style="float:right; padding-top:20px; "><span style="  font-size:16px; margin-top:50px; padding-right:10px;">مشاريع التخرج</span>
+            </div>
+<div style="clear:both"></div> </div>
+<div class="subdivcustom">
+<div style="float:right"><img src="sites/default/files/imageblock/imgs/results.png" style=" width:70; height:70;" />
+            </div>
+<p>         <a href="Results" style=" color:#000; text-decoration:none;"><br />
+<div style="float:right; padding-top:5px; "><span style="  font-size:16px; margin-top:30px; padding-right:10px;">النتائج الامتحانية</span>
+            </div>
+<p></p></a></p>
+<div style="clear:both"></div> </div>
+</div>
+<div class="divcusom" style=" width:170px; background-color:#FFFFFF ">
+<div class="titledivcustom"><span style="  font-size:18px; margin-top:50px; padding-right:10px; background-color:#FFF1BF">الخدمات</span>
+         </div>
+<ul>
+<li class="adiv"><a class="astyle" href="department/continues-learning"><img src="sites/default/files/imageblock/imgs/bullet.png" style="margin-left:5px;" />مديرية التعليم المستمر</a></li>
+<li class="adiv"><a class="astyle" href="department/accomodation"><img src="sites/default/files/imageblock/imgs/bullet.png" style="margin-left:5px;" />مديرية المدينة الجامعية</a></li>
+<li class="adiv"><a class="astyle" href="node/7899"><img src="sites/default/files/imageblock/imgs/bullet.png" style="margin-left:5px;" />مديريةالمطبوعات</a></li>
+<li class="adiv"><a class="astyle" href="node/7611"><img src="sites/default/files/imageblock/imgs/bullet.png" style="margin-left:5px;" />مديرية المكتبات والأنشطة الثقافية</a></li>
+<li class="adiv"><a class="astyle" href="node/7901"><img src="sites/default/files/imageblock/imgs/bullet.png" style="margin-left:5px;" />مديرية شؤون الطلاب والإمتحانات المركزية</a></li>
+<li class="adiv"><a class="astyle" href="node/7988"><img src="sites/default/files/imageblock/imgs/bullet.png" style="margin-left:5px;" />المركز الصحي</a></li>
+<li class="adiv"><a class="astyle" href="node/7989"><img src="sites/default/files/imageblock/imgs/bullet.png" style="margin-left:5px;" />منتدى جامعة تشرين</a></li>
+</ul>
+</div>
+<div style="clear:both"></div>
+    </div>
+
+<div style="clear:both"></div>
+
+<div style=" width:895px;  height:120px; border:0px solid #999; padding-bottom:20px;  background-color:#FFFEDB;   ">
+<div class="titledivcustom"><span style="  font-size:18px; margin-top:50px; padding-right:10px; background-color:#FFF1BF">البحث العلمي</span>
+        </div>
+<div class="subdivcustom" style="box-shadow:0 0px 0px 0px  #999999;">
+<div style="float:right"><img src="sites/default/files/imageblock/imgs/department.png" style=" width:70; height:70;" />
+            </div>
+<p>            <a href="ar/node/3403" style=" color:#000; text-decoration:none;"><br />
+<div style="float:right; padding-top:5px;  "><span style="  font-size:16px; margin-top:50px; padding-right:10px;">مديرية البحث العلمي</span>
+            </div>
+<p></p></a></p>
+<div style="clear:both"></div> </div>
+<div class="subdivcustom" style="box-shadow:0 0px 0px 0px  #999999;">
+<div style="float:right"><img src="sites/default/files/imageblock/imgs/research.png" style=" width:70; height:70;" />
+            </div>
+<p>              <a href="ar/find-research-papers" style=" color:#000; text-decoration:none;"><br />
+<div style="float:right; padding-top:5px; "><span style="  font-size:18px; margin-top:50px; padding-right:10px;">الأبحاث العلمية</span>
+            </div>
+<p></p></a></p>
+<div style="clear:both"></div> </div>
+<div class="subdivcustom" style="box-shadow:0 0px 0px 0px  #999999;">
+<div style="float:right"><img src="sites/default/files/imageblock/imgs/libs.jpg" style=" width:70; height:70;" />
+            </div>
+<p>          <a href="ar/e-libraries" style=" color:#000; text-decoration:none;"><br />
+<div style="float:right; padding-top:5px; "><span style="  font-size:16px; margin-top:50px; padding-right:10px;">المكتبات الإلكترونية</span>
+            </div>
+<p></p></a></p>
+<div style="clear:both"></div> </div>
+<div class="subdivcustom" style="box-shadow:0 0px 0px 0px  #999999;">
+100 79277    0 79277    0     0  50949      0 --:--:--  0:00:01 --:--:-- 50949ht"><img src="sites/default/files/imageblock/imgs/journal.png" style=" width:70; height:70;" />
+            </div>
+<p>           <a href="http://journal.tishreen.edu.sy" style=" color:#000; text-decoration:none;"><br />
+<div style="float:right; padding-top:5px; "><span style="  font-size:18px; margin-top:50px; padding-right:10px;">مجلة الجامعة</span>
+            </div>
+<p></p></a></p>
+<div style="clear:both"></div> </div>
+</div>
+  </div>
+</div>
+  </div>
+</div><div class="art-footer">
+    <div class="art-footer-body">
+        <a href="/ar/rss.xml" class="art-rss-tag-icon"></a>                <div class="art-footer-text">
+                          <div class="region region-footer-message">
+    <div class="block block-block" id="block-block-10">
+
+
+
+<p>للدخول إلى البريد الالكتروني انقر  <a href="http://mail.tishreen.edu.sy/exchange" target="_blank">هنا</a></p>
+
+        </div><div class="block block-visitors" id="block-visitors-0">
+
+
+
+                        معلومات الزوار
+
+
+
+<div class="item-list"><ul><li class="first last">Total Visitors: 4272314</li>
+</ul></div>
+        </div>  </div>
+                                </div>
+                <div class="cleared"></div>
+    </div>
+</div>
+                <div class="cleared"></div>
+    </div>
+</div>
+<div class="cleared"></div>
+<p class="art-page-footer"></p>
+
+    <div class="cleared"></div>
+</div>
+
+
+  </body>
+</html>
